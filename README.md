@@ -1,1 +1,2 @@
+# Lab_8_Hypothesizing
 This lab practices forming a testable hypothesis—an evidence‑based statement that can be evaluated using data—by exploring the Titanic dataset to investigate which passenger groups were more likely to survive and framing those observations as hypotheses that can be statistically examined.
